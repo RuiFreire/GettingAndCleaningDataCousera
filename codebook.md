@@ -1,5 +1,7 @@
 ##Code Book
 
+** Data Table with the variables description**
+
 | Code                              |Description|
 |-----------------------------------|----|
 |tBodyAccMeanX                      |Mean of the Body Aceleration Signal in the time Domain on the X axis|
