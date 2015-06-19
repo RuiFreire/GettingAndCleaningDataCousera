@@ -1,6 +1,6 @@
 ##Code Book
 
-** Data Table with the variables description**
+**Data Table with the variables description**
 
 | Code                              |Description|
 |-----------------------------------|----|
