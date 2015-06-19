@@ -1,7 +1,7 @@
 
-In order to use the following script, you need to:
+In order to use the run_analysis.R script, you need to:
 
-1. Place both run_analysis.R script and UCI HAR Dataset in the same folder
+1. Place both run_analysis.R script and the UCI HAR Dataset in the same folder
 2. Set the working directory to the above folder
 3. The script will end by creating a tidy data set named dt_tidy and write it in a data_tidy.txt file in the folder. 
  
