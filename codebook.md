@@ -1,87 +1,71 @@
-"code" "description"
-"1" | "tBodyAccMeanX" "Mean of the Body Aceleration Signal  in the time Domain on the X axis"
-"2" "tBodyAccMeanY" "Mean of the Body Aceleration Signal  in the time Domain on the Y axis"
-"3" "tBodyAccMeanZ" "Mean of the Body Aceleration Signal  in the time Domain on the Z axis"
-"4" "tBodyAccStdX" "Standard Deviation of the Body Aceleration Signal  in the time Domain on the X axis"
-"5" "tBodyAccStdY" "Standard Deviation of the Body Aceleration Signal  in the time Domain on the Y axis"
-"6" "tBodyAccStdZ" "Standard Deviation of the Body Aceleration Signal  in the time Domain on the Z axis"
-"7" "tGravityAccMeanX" "Mean of the Gravity Aceleration Signal  in the time Domain on the X axis"
-"8" "tGravityAccMeanY" "Mean of the Gravity Aceleration Signal  in the time Domain on the Y axis"
-"9" "tGravityAccMeanZ" "Mean of the Gravity Aceleration Signal  in the time Domain on the Z axis"
-"10" "tGravityAccStdX" "Standard Deviation of the Gravity Aceleration Signal  in the time Domain on the X axis"
-"11" "tGravityAccStdY" "Standard Deviation of the Gravity Aceleration Signal  in the time Domain on the Y axis"
-"12" "tGravityAccStdZ" "Standard Deviation of the Gravity Aceleration Signal  in the time Domain on the Z axis"
-"13" "tBodyAccJerkMeanX" "Mean of the Body Aceleration Jerk Signal  in the time Domain on the X axis"
-"14" "tBodyAccJerkMeanY" "Mean of the Body Aceleration Jerk Signal  in the time Domain on the Y axis"
-"15" "tBodyAccJerkMeanZ" "Mean of the Body Aceleration Jerk Signal  in the time Domain on the Z axis"
-"16" "tBodyAccJerkStdX" "Standard Deviation of the Body Aceleration Jerk Signal  in the time Domain on the X axis"
-"17" "tBodyAccJerkStdY" "Standard Deviation of the Body Aceleration Jerk Signal  in the time Domain on the Y axis"
-"18" "tBodyAccJerkStdZ" "Standard Deviation of the Body Aceleration Jerk Signal  in the time Domain on the Z axis"
-"19" "tBodyGyroMeanX" "Mean of the Body Gyroscope Signal  in the time Domain on the X axis"
-"20" "tBodyGyroMeanY" "Mean of the Body Gyroscope Signal  in the time Domain on the Y axis"
-"21" "tBodyGyroMeanZ" "Mean of the Body Gyroscope Signal  in the time Domain on the Z axis"
-"22" "tBodyGyroStdX" "Standard Deviation of the Body Gyroscope Signal  in the time Domain on the X axis"
-"23" "tBodyGyroStdY" "Standard Deviation of the Body Gyroscope Signal  in the time Domain on the Y axis"
-"24" "tBodyGyroStdZ" "Standard Deviation of the Body Gyroscope Signal  in the time Domain on the Z axis"
-"25" "tBodyGyroJerkMeanX" "Mean of the Body Gyroscope Jerk Signal  in the time Domain on the X axis"
-"26" "tBodyGyroJerkMeanY" "Mean of the Body Gyroscope Jerk Signal  in the time Domain on the Y axis"
-"27" "tBodyGyroJerkMeanZ" "Mean of the Body Gyroscope Jerk Signal  in the time Domain on the Z axis"
-"28" "tBodyGyroJerkStdX" "Standard Deviation of the Body Gyroscope Jerk Signal  in the time Domain on the X axis"
-"29" "tBodyGyroJerkStdY" "Standard Deviation of the Body Gyroscope Jerk Signal  in the time Domain on the Y axis"
-"30" "tBodyGyroJerkStdZ" "Standard Deviation of the Body Gyroscope Jerk Signal  in the time Domain on the Z axis"
-"31" "tBodyAccMagMean" "Mean of the Magnitude of the Body Aceleration Signal  in the time Domain"
-"32" "tBodyAccMagStd" "Standard Deviation of the Magnitude of the Body Aceleration Signal  in the time Domain"
-"33" "tGravityAccMagMean" "Mean of the Magnitude of the Gravity Aceleration Signal  in the time Domain"
-"34" "tGravityAccMagStd" "Standard Deviation of the Magnitude of the Gravity Aceleration Signal  in the time Domain"
-"35" "tBodyAccJerkMagMean" "Mean of the Magnitude of the Body Aceleration Jerk Signal  in the time Domain"
-"36" "tBodyAccJerkMagStd" "Magnitude of the Body Aceleration Jerk Signal  in the time Domain"
-"37" "tBodyGyroMagMean" "Mean of the Magnitude of the Body Gyroscope Signal  in the time Domain"
-"38" "tBodyGyroMagStd" "Standard Deviation of the Magnitude of the Body Gyroscope Signal  in the time Domain"
-"39" "tBodyGyroJerkMagMean" "Mean of the Magnitude of the Body Gyroscope Jerk Signal  in the time Domain"
-"40" "tBodyGyroJerkMagStd" "Magnitude of the Body Gyroscope Jerk Signal  in the time Domain"
-"41" "fBodyAccMeanX" "Mean of the Body Aceleration Signal  in the Frequency Domain on the X axis"
-"42" "fBodyAccMeanY" "Mean of the Body Aceleration Signal  in the Frequency Domain on the Y axis"
-"43" "fBodyAccMeanZ" "Mean of the Body Aceleration Signal  in the Frequency Domain on the Z axis"
-"44" "fBodyAccStdX" "Standard Deviation of the Body Aceleration Signal  in the Frequency Domain on the X axis"
-"45" "fBodyAccStdY" "Standard Deviation of the Body Aceleration Signal  in the Frequency Domain on the Y axis"
-"46" "fBodyAccStdZ" "Standard Deviation of the Body Aceleration Signal  in the Frequency Domain on the Z axis"
-"47" "fBodyAccMeanFreqX" "Mean of the Frequency of the Body Aceleration Signal  in the Frequency Domain on the X axis"
-"48" "fBodyAccMeanFreqY" "Mean of the Frequency of the Body Aceleration Signal  in the Frequency Domain on the Y axis"
-"49" "fBodyAccMeanFreqZ" "Mean of the Frequency of the Body Aceleration Signal  in the Frequency Domain on the Z axis"
-"50" "fBodyAccJerkMeanX" "Mean of the Body Aceleration Jerk Signal  in the Frequency Domain on the X axis"
-"51" "fBodyAccJerkMeanY" "Mean of the Body Aceleration Jerk Signal  in the Frequency Domain on the Y axis"
-"52" "fBodyAccJerkMeanZ" "Mean of the Body Aceleration Jerk Signal  in the Frequency Domain on the Z axis"
-"53" "fBodyAccJerkStdX" "Standard Deviation of the Body Aceleration Jerk Signal  in the Frequency Domain on the X axis"
-"54" "fBodyAccJerkStdY" "Standard Deviation of the Body Aceleration Jerk Signal  in the Frequency Domain on the Y axis"
-"55" "fBodyAccJerkStdZ" "Standard Deviation of the Body Aceleration Jerk Signal  in the Frequency Domain on the Z axis"
-"56" "fBodyAccJerkMeanFreqX" "Mean of the Frequency of the Body Aceleration Jerk Signal  in the Frequency Domain on the X axis"
-"57" "fBodyAccJerkMeanFreqY" "Mean of the Frequency of the Body Aceleration Jerk Signal  in the Frequency Domain on the Y axis"
-"58" "fBodyAccJerkMeanFreqZ" "Mean of the Frequency of the Body Aceleration Jerk Signal  in the Frequency Domain on the Z axis"
-"59" "fBodyGyroMeanX" "Mean of the Body Gyroscope Signal  in the Frequency Domain on the X axis"
-"60" "fBodyGyroMeanY" "Mean of the Body Gyroscope Signal  in the Frequency Domain on the Y axis"
-"61" "fBodyGyroMeanZ" "Mean of the Body Gyroscope Signal  in the Frequency Domain on the Z axis"
-"62" "fBodyGyroStdX" "Standard Deviation of the Body Gyroscope Signal  in the Frequency Domain on the X axis"
-"63" "fBodyGyroStdY" "Standard Deviation of the Body Gyroscope Signal  in the Frequency Domain on the Y axis"
-"64" "fBodyGyroStdZ" "Standard Deviation of the Body Gyroscope Signal  in the Frequency Domain on the Z axis"
-"65" "fBodyGyroMeanFreqX" "Mean of the Frequency of the Body Gyroscope Signal  in the Frequency Domain on the X axis"
-"66" "fBodyGyroMeanFreqY" "Mean of the Frequency of the Body Gyroscope Signal  in the Frequency Domain on the Y axis"
-"67" "fBodyGyroMeanFreqZ" "Mean of the Frequency of the Body Gyroscope Signal  in the Frequency Domain on the Z axis"
-"68" "fBodyAccMagMean" "Mean of the Magnitude of the Body Aceleration Signal  in the Frequency Domain"
-"69" "fBodyAccMagStd" "Standard Deviation of the Magnitude of the Body Aceleration Signal  in the Frequency Domain"
-"70" "fBodyAccMagMeanFreq" "Mean of the Frequency of the Magnitude Aceleration Signal  in the Frequency Domain"
-"71" "fBodyBodyAccJerkMagMean" "Mean of the Magnitude of the Body Aceleration Jerk Signal  in the Frequency Domain"
-"72" "fBodyBodyAccJerkMagStd" "Magnitude of the Body Aceleration Jerk Signal  in the Frequency Domain"
-"73" "fBodyBodyAccJerkMagMeanFreq" "Mean of the Frequency of the Magnitude Aceleration Jerk Signal  in the Frequency Domain"
-"74" "fBodyBodyGyroMagMean" "Mean of the Magnitude of the Body Gyroscope Signal  in the Frequency Domain"
-"75" "fBodyBodyGyroMagStd" "Standard Deviation of the Magnitude of the Body Gyroscope Signal  in the Frequency Domain"
-"76" "fBodyBodyGyroMagMeanFreq" "Mean of the Frequency of the Magnitude Gyroscope Signal  in the Frequency Domain"
-"77" "fBodyBodyGyroJerkMagMean" "Mean of the Magnitude of the Body Gyroscope Jerk Signal  in the Frequency Domain"
-"78" "fBodyBodyGyroJerkMagStd" "Magnitude of the Body Gyroscope Jerk Signal  in the Frequency Domain"
-"79" "fBodyBodyGyroJerkMagMeanFreq" "Mean of the Frequency of the Magnitude Gyroscope Jerk Signal  in the Frequency Domain"
-"80" "angletBodyAccMeangravity" "  "
-"81" "angletBodyAccJerkMeangravityMean" "  "
-"82" "angletBodyGyroMeangravityMean" "  "
-"83" "angletBodyGyroJerkMeangravityMean" "  "
-"84" "angleXgravityMean" "  "
-"85" "angleYgravityMean" "  "
-"86" "angleZgravityMean" "  "
+##Code Book
+
+| Code                              |Description|
+|-----------------------------------|----|
+|tBodyAccMeanX                      |Mean of the Body Aceleration Signal in the time Domain on the X axis|
+|tBodyAccMeanY                      |Mean of the Body Aceleration Signal in the time Domain on the Y axis|
+|tBodyAccMeanY                      |Mean of the Body Aceleration Signal in the time Domain on the Z axis|
+|tBodyAccStdX                       |Standard Deviation of the Body Aceleration Signal in the time Domain on the X axis|
+|tBodyAccStdY                       |Standard Deviation of the Body Aceleration Signal in the time Domain on the Y axis|
+|tBodyAccStdZ                       |Standard Deviation of the Body Aceleration Signal in the time Domain on the Z axis|
+|tGravityAccMeanX                   |Mean of the Gravity Aceleration Signal in the time Domain on the X axis|
+|tGravityAccMeanY                   |Mean of the Gravity Aceleration Signal in the time Domain on the Y axis|
+|tGravityAccMeanZ                   |Mean of the Gravity Aceleration Signal in the time Domain on the Z axis|
+|tGravityAccStdX                    |Standard Deviation of the Gravity Aceleration Signal in the time Domain on the X axis|
+|tGravityAccStdY                    |Standard Deviation of the Gravity Aceleration Signal in the time Domain on the Y axis|
+|tGravityAccStdZ                    |Standard Deviation of the Gravity Aceleration Signal in the time Domain on the Z axis|
+|tBodyAccJerkMeanX                  |Mean of the Body Aceleration Jerk Signal in the time Domain on the X axis|
+|tBodyAccJerkMeanY                  |Mean of the Body Aceleration Jerk Signal in the time Domain on the Y axis|
+|tBodyAccJerkMeanZ                  |Mean of the Body Aceleration Jerk Signal in the time Domain on the Z axis|
+|tBodyAccJerkStdX                   |Standard Deviation of the Body Aceleration Jerk Signal in the time Domain on the X axis|
+|tBodyAccJerkStdY                   |Standard Deviation of the Body Aceleration Jerk Signal in the time Domain on the Y axis|
+|tBodyAccJerkStdZ                   |Standard Deviation of the Body Aceleration Jerk Signal in the time Domain on the Z axis|
+|tBodyGyroMeanX                     |Mean of the Body Gyroscope Signal in the time Domain on the X axis|
+|tBodyGyroMeanY                     |Mean of the Body Gyroscope Signal in the time Domain on the Y axis|
+|tBodyGyroMeanZ                     |Mean of the Body Gyroscope Signal in the time Domain on the Z axis|
+|tBodyGyroStdX                      |Standard Deviation of the Body Gyroscope Signal in the time Domain on the X axis|
+|tBodyGyroStdX                      |Standard Deviation of the Body Gyroscope Signal in the time Domain on the Y axis|
+|tBodyGyrostdZ                      |Standard Deviation of the Body Gyroscope Signal in the time Domain on the Z axis|
+|tBodyGyroJerkMeanX                 |Mean of the Body Gyroscope Jerk Signal in the time Domain on the X axis|
+|tBodyGyroJerkMeanY                 |Mean of the Body Gyroscope Jerk Signal in the time Domain on the Y axis|
+|tBodyGyroJerkMeanZ                 |Mean of the Body Gyroscope Jerk Signal in the time Domain on the Z axis|
+|tBodyGyroJerkStdX                  |Standard Deviation of the Body Gyroscope Jerk Signal in the time Domain on the X axis|
+|tBodyGyroJerkStdY                  |Standard Deviation of the Body Gyroscope Jerk Signal in the time Domain on the Y axis|
+|tBodyGyroJerkStdZ                  |Standard Deviation of the Body Gyroscope Jerk Signal in the time Domain on the Z axis|
+|tBodyAccMagMean                    |Mean of the Magnitude of the Body Aceleration Signal in the time Domain|
+|tBodyAccMagStd                     |Standard Deviation of the Magnitude of the Body Aceleration Signal in the time Domain|
+|tGravityAccMagMean                 |Mean of the Magnitude of the Gravity Aceleration Signal in the time Domain|
+|tGravityAccMagStd                  |Standard Deviation of the Magnitude of the Gravity Aceleration Signal  in the time Domain|
+|tBodyAccJerkMagMean                |Mean of the Magnitude of the Body Aceleration Jerk Signal in the time Domain|
+|tBodyAccJerkMagStd                 |Magnitude of the Body Aceleration Jerk Signal in the time Domain|
+|tBodyGyroMagMean                   |Mean of the Magnitude of the Body Gyroscope Signal in the time Domain|
+|tBodyGyroMagStd                    |Standard Deviation of the Magnitude of the Body Gyroscope Signal in the time Domain|
+|tBodyGyroJerkMagMean               |Mean of the Magnitude of the Body Gyroscope Jerk Signal in the time Domain|
+|tBodyGyroJerkMagStd                |Magnitude of the Body Gyroscope Jerk Signal in the time Domain|
+|fBodyAccMeanX                      |Mean of the Body Aceleration Signal in the Frequency Domain on the X axis|
+|fBodyAccMeanY                      |Mean of the Body Aceleration Signal in the Frequency Domain on the Y axis|
+|fBodyAccMeanZ                      |Mean of the Body Aceleration Signal in the Frequency Domain on the Z axis|
+|fBodyAccStdX                       |Standard Deviation of the Body Aceleration Signal in the Frequency Domain on the X axis|
+|fBodyAccStdY                       |Standard Deviation of the Body Aceleration Signal in the Frequency Domain on the Y axis|
+|fBodyAccStdZ                       |Standard Deviation of the Body Aceleration Signal in the Frequency Domain on the Z axis|
+|fBodyAccJerkMeanX                  |Mean of the Body Aceleration Jerk Signal in the Frequency Domain on the X axis|
+|fBodyAccJerkMeanY                  |Mean of the Body Aceleration Jerk Signal in the Frequency Domain on the Y axis|
+|fBodyAccJerkMeanZ                  |Mean of the Body Aceleration Jerk Signal in the Frequency Domain on the Z axis|
+|fBodyAccJerkStdX                   |Standard Deviation of the Body Aceleration Jerk Signal in the Frequency Domain on the X axis|
+|fBodyAccJerkStdY                   |Standard Deviation of the Body Aceleration Jerk Signal in the Frequency Domain on the Y axis|
+|fBodyAccJerkStdZ                   |Standard Deviation of the Body Aceleration Jerk Signal in the Frequency Domain on the Z axis|
+|fBodyGyroMeanX                     |Mean of the Body Gyroscope Signal in the Frequency Domain on the X axis|
+|fBodyGyroMeanY                     |Mean of the Body Gyroscope Signal in the Frequency Domain on the Y axis|
+|fBodyGyroMeanZ                     |Mean of the Body Gyroscope Signal in the Frequency Domain on the Z axis|
+|fBodyGyroStdX                      |Standard Deviation of the Body Gyroscope Signal in the Frequency Domain on the X axis|
+|fBodyGyroStdY                      |Standard Deviation of the Body Gyroscope Signal in the Frequency Domain on the Y axis|
+|fBodyGyroStdZ                      |Standard Deviation of the Body Gyroscope Signal in the Frequency Domain on the Z axis|
+|fBodyAccMagMean                    |Mean of the Magnitude of the Body Aceleration Signal in the Frequency Domain|
+|fBodyAccMagStd                     |Standard Deviation of the Magnitude of the Body Aceleration Signal in the Frequency Domain|
+|fBodyBodyAccJerkMagMean            |Mean of the Magnitude of the Body Aceleration Jerk Signal in the Frequency Domain|
+|fBodyBodyAccJerkMagStd             |Magnitude of the Body Aceleration Jerk Signal in the Frequency Domain|
+|fBodyBodyGyroMagMean               |Mean of the Magnitude of the Body Gyroscope Signal in the Frequency Domain|
+|fBodyBodyGyroMagStd                |Standard Deviation of the Magnitude of the Body Gyroscope Signal in the Frequency Domain|
+|fBodyBodyGyroJerkMagMean           |Mean of the Magnitude of the Body Gyroscope Jerk Signal in the Frequency Domain|
+|fBodyBodyGyroJerkMagStd            |Magnitude of the Body Gyroscope Jerk Signal in the Frequency Domain|
+
